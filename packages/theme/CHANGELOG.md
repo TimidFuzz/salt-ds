@@ -1,5 +1,21 @@
 # @salt-ds/theme
 
+## 1.20.0
+
+### Minor Changes
+
+- fc60301: Added status bold background and content bold foreground tokens
+
+  ```
+  --salt-status-info-bold-background
+  --salt-status-error-bold-background
+  --salt-status-warning-bold-background
+  --salt-status-success-bold-background
+
+  --salt-content-bold-foreground
+  --salt-content-bold-foreground-disabled
+  ```
+
 ## 1.19.0
 
 ### Minor Changes
